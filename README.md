@@ -1,4 +1,4 @@
-![[Pasted image 20250903014154.png]]
+![](Pasted image 20250903014154.png)
 *Jesse James Garrett*
 
 ## Qu'est-ce que la recherche UX
@@ -29,7 +29,7 @@ Les résultats des investigations alimentent la réflexion et les choix futurs d
 **Qualitatif :** recueillent des informations sur les utilisateurs en les observant, en menant des entretiens individuels ou de groupes
 comprendre les actes des consommateurs et la dimension émotionnelle de l’expérience des individus ciblés
 
-![[landscape-2022-07-06.png]]
+![](landscape-2022-07-06.png)
 
 ## Connaître ses utilisateurs
 
@@ -43,7 +43,7 @@ portrait-robot d’un être humain pour les incarner, à partir de ce que l’on
 - exit opinions personnelles ou des préjugés divergents
 - **différentes catégories d’utilisateurs** (quelqu'un qui veut d'inscrire à l'asso, un adhérent qui veut montrer son travail...)
 
-![[02-User-personas-model-UXIS.jpg]]
+![02-User-personas-model-UXIS.jpg]
 
 ### Cartographie
 
