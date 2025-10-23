@@ -1,4 +1,4 @@
-![](Pasted%20%image%20%20250903014154.png)
+![](img_intro.png)
 *Jesse James Garrett*
 
 ## Qu'est-ce que la recherche UX
