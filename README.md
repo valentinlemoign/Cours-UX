@@ -1,4 +1,4 @@
-![](Pasted image 20250903014154.png)
+![](Pasted%20%image%20%20250903014154.png)
 *Jesse James Garrett*
 
 ## Qu'est-ce que la recherche UX
@@ -43,7 +43,7 @@ portrait-robot d’un être humain pour les incarner, à partir de ce que l’on
 - exit opinions personnelles ou des préjugés divergents
 - **différentes catégories d’utilisateurs** (quelqu'un qui veut d'inscrire à l'asso, un adhérent qui veut montrer son travail...)
 
-![02-User-personas-model-UXIS.jpg]
+![](02-User-personas-model-UXIS.jpg)
 
 ### Cartographie
 
@@ -52,8 +52,8 @@ portrait-robot d’un être humain pour les incarner, à partir de ce que l’on
 représentation visuelle de l’expérience globale d’un utilisateur
 représentation des actions, pensées et émotions des utilisateurs durant la réalisation d’une tâche, ou pour atteindre un objectif
 
-![[screen-shot-2018-11-06-at-122254-pm.png]]
-![[example-experience-map-fcdeeddc12ce0192a72dfac66b31f0bb.webp]]
+![](screen-shot-2018-11-06-at-122254-pm.png)
+![](example-experience-map-fcdeeddc12ce0192a72dfac66b31f0bb.webp)
 
 ## Méthodes de recherche essentielles
 
@@ -112,13 +112,13 @@ Rendre la visite plus intuitive
 - Comment trouver quelle information ?
 - Quels sont nos objectifs primaires ? Secondaires ?
 - Via quels parcours utilisateur ?
-![[site-web-arborescence-assureur-societe-assurance-B2B-B2C.webp]]
+![](site-web-arborescence-assureur-societe-assurance-B2B-B2C.webp)
 
 Peut-être définie selon l'attente de l'utilisateur par un exercice de "tri de cartes".
 
 ### Zoning/wireframe et prototype
 
-![[exemple1.png]]
+![](exemple1.png)
 Puis conception UI et prototypage
 
 ## Outils
